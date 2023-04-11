@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+JUAN+PABLO;I'm+17+years+old;I+am+from+Jandira,+SP;I+study+analysis+and+systems+development+at+Etec;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
- <a href="https://github.com/MuriloJLima"><img alt="Juan Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=Jpzinn654&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/MuriloJLima"><img alt="Juan Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jpzinn654&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ <a href="https://github.com/Jpzinn654"><img alt="Juan Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=Jpzinn654&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Jpzinn654"><img alt="Juan Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jpzinn654&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 ### Main skills:
