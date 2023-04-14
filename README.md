@@ -2,9 +2,40 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+JUAN+PABLO;I'm+17+years+old;I+am+from+Jandira,+SP;I+study+analysis+and+systems+development+at+Etec;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<div align="center">
+
  <a href="https://github.com/Jpzinn654"><img alt="Juan Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=Jpzinn654&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Jpzinn654"><img alt="Juan Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jpzinn654&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
+ 
+ </div>
+
+<div align="center">
+
+<table><tr><td valign="top" width="50%">
+
+### Frontend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+ <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
+</div>
+
+</td><td valign="top" width="50%">
+
+
+
+### Backend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />   
+</div>
+
+</td></tr></table>  
+ 
+ </div
 
 ### Main skills:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
