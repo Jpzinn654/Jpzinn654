@@ -1,82 +1,75 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=Don+Juan&fontColor=fff&color=00bfbf&height=120&section=header"/>
+<h2 align="left">Oi!  👋 eu sou o Juan, um amante da programação e criativo no mundo da tecnologia. Bem-vindo(a) ao meu GitHub!</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+JUAN+PABLO;I'm+17+years+old;I+am+from+Jandira,+SP;I+study+analysis+and+systems+development+at+Etec;Be+Welcome!+:%29)](https://git.io/typing-svg)
+###
 
-<div align="center">
+<h3 align="left">Sobre Mim:</h3>
 
- <a href="https://github.com/Jpzinn654"><img alt="Juan Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=Jpzinn654&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Jpzinn654"><img alt="Juan Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jpzinn654&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
- 
- </div>
+###
 
-<div align="center">
+[<img align="left" height="100px" width="150px" alt="Warpnet" src="https://github.com/Jpzinn654/Jpzinn654/assets/106168706/1a0aa4fc-e74e-4a58-8734-c95f4d98d879"/>](https://www.cps.sp.gov.br/etec/)
 
-<table><tr><td valign="top" width="50%">
+**Densenvolvimento de Sistemas** \
+[**ETEC**](https://www.cps.sp.gov.br/etec/) • Nivel: Técnico\
+Linguagens & Tecnologias: `ReactJS`, `Html5`, `ReactNative`, `JavaScript`, `CSS`, `C++`, `C#`, `SQL`\
+Projetos em destaque: [E-PLANNER](https://github.com/Jpzinn654/E-PLANNER-MAIN)
+<br/>
 
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-</div>
+[<img align="left" height="130px" width="150px" alt="Warpnet" src="https://github.com/Jpzinn654/Jpzinn654/assets/106168706/f0d024de-646a-427b-ae81-31dd7e35027c"/>](https://prozeducacao.com.br/)
 
-</td><td valign="top" width="50%">
+**Informática para a Internet** \
+[**PROZ**](https://prozeducacao.com.br) • Nivel: Técnico\
+Linguagens & Tecnologias: `SQL`, `Html5`, `JavaScript`, `CSS`, \
+Projetos em destaque: [ReservaFIT](https://github.com/Jpzinn654/Reserva-Fit)
+<br/>
 
 
+###
 
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />   
-</div>
+---
 
-</td></tr></table>  
- 
- </div>
 
-### Main skills:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+<h2>Oque estou estudando atualmente:</h2>
 
-### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+<p>• Estou buscando a aprender mais sobre JavaScript</p>
+<p>• Estou começando aprender C++</p>
+<p>• Estou aprimorando minhas habilidades em Design UX</p>
 
-### Other Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Handlebars](https://img.shields.io/badge/-handlebars-0D1117?style=for-the-badge&logo=handlebars&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+---
+
+### Ferramentas que utilizo:
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+
+
+### Habilidades:
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 
 ### Social Media
 
-<div align="center" style="margin-bottom: 5px">
+<div align="left" >
  </a>
  <a href="https://github.com/Jpzinn654" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="#" target="_blank">
+<a href="https://www.linkedin.com/in/juan-p-5291b5236/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>
- 
 
-<!--  ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jpzinn654&theme=gotham) -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+---
+
+## ⭐ Informações sobre minha conta GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jpzinn654&show_icons=true)
