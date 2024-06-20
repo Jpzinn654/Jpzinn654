@@ -6,6 +6,13 @@
 
 ###
 
+[<img align="left" height="100px" width="150px" alt="Warpnet" src="https://github.com/Jpzinn654/Jpzinn654/assets/106168706/641884cd-344f-4ca9-ba66-0bed4ea5b043"/>](https://www.fiap.com.br)
+
+**Análise de Densenvolvimento de Sistemas** \
+[**FIAP**](https://www.fiap.com.br) • Nivel: Tecnólogo\
+Linguagens & Tecnologias: `Python`, `Html5`, `React`, `C++`, `C#`, `SQL`\
+<br/>
+
 [<img align="left" height="100px" width="150px" alt="Warpnet" src="https://github.com/Jpzinn654/Jpzinn654/assets/106168706/1a0aa4fc-e74e-4a58-8734-c95f4d98d879"/>](https://www.cps.sp.gov.br/etec/)
 
 **Densenvolvimento de Sistemas** \
