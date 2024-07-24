@@ -37,19 +37,21 @@ Projetos em destaque: [ReservaFIT](https://github.com/Jpzinn654/Reserva-Fit)
 
 <h2>Oque estou estudando atualmente:</h2>
 
-<p>• Estou buscando a aprender mais sobre JavaScript</p>
-<p>• Estou começando aprender C++</p>
-<p>• Estou aprimorando minhas habilidades em Design UX</p>
+<p>• Estou buscando a aprender mais sobre Flask</p>
+<p>• Estou aprimorando minhas habilidades em Python e Api's</p>
 
 ---
 
 ### Ferramentas que utilizo:
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=FFFFFF)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![XAMPP](https://img.shields.io/badge/-XAMPP-333333?style=flat&logo=xampp&logoColor=FF5C5C)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)
 
 
 
@@ -61,6 +63,10 @@ Projetos em destaque: [ReservaFIT](https://github.com/Jpzinn654/Reserva-Fit)
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2560px-Python-logo-notext.svg.png" alt="Python"/></code>
+
+
+
 
 ### Social Media
 
@@ -79,4 +85,6 @@ Projetos em destaque: [ReservaFIT](https://github.com/Jpzinn654/Reserva-Fit)
 
 ## ⭐ Informações sobre minha conta GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jpzinn654&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jpzinn654&layout=compact&theme=radical)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jpzinn654&theme=radical)
+
