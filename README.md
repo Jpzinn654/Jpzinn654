@@ -37,7 +37,7 @@ Projetos em destaque: [ReservaFIT](https://github.com/Jpzinn654/Reserva-Fit)
 
 <h2>Oque estou estudando atualmente:</h2>
 
-<p>• Estou buscando a aprender mais sobre Flask</p>
+<p>• Estou buscando a aprender mais sobre RPA</p>
 <p>• Estou aprimorando minhas habilidades em Python e Api's</p>
 
 ---
