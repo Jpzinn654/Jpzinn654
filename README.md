@@ -10,7 +10,7 @@
 
 **Análise de Densenvolvimento de Sistemas** \
 [**FIAP**](https://www.fiap.com.br) • Nivel: Tecnólogo\
-Linguagens & Tecnologias: `Python`, `Html5`, `React`, `C++`, `C#`, `SQL`\
+Linguagens & Tecnologias: `Python`, `Html5`, `React`, `C++`, `C#`, `SQL`, `JAVA`\
 <br/>
 
 [<img align="left" height="100px" width="150px" alt="Warpnet" src="https://github.com/Jpzinn654/Jpzinn654/assets/106168706/1a0aa4fc-e74e-4a58-8734-c95f4d98d879"/>](https://www.cps.sp.gov.br/etec/)
